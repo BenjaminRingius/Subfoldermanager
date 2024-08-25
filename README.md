@@ -8,7 +8,7 @@ first download this as .zip file
 then extract the file and open the extracted folder and click and drag the files to the desktop
 Now I want you to edit the subfolder.bat file and exchange the file path for the other folder.
 Then save the file and now right click on the .ps1 file and click on "run with powershell"
-make sure it runs the program without any issues.
+make sure it runs the program without any issues. Windows don't know if it may contain malware. Therefore it can warn.
 After that you execute the program by clicking on the .bat file and use it
 
 guide to use it:
@@ -27,7 +27,7 @@ först ladda ner detta som .zip-fil
 extrahera sedan filen och öppna den extraherade mappen och klicka och dra filerna till skrivbordet
 Nu vill jag att du redigerar filen subfolder.bat och byter ut sökvägen mot den andra mappen.
 Spara sedan filen och högerklicka nu på .ps1-filen och klicka på "kör med powershell"
-se till att programmet körs utan problem.
+se till att programmet körs utan problem. Windows vet inte om det kan innehålla skadlig programvara. Därför kan den varna.
 Därefter kör du programmet genom att klicka på .bat-filen och använda den
 
 guide för att använda den:
